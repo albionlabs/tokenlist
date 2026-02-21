@@ -1,0 +1,53 @@
+{
+  "name": "Albion Labs Token List",
+  "logoURI": "https://raw.githubusercontent.com/albionlabs/tokenlist/main/assets/albion-logo.svg",
+  "keywords": ["albion", "royalty", "energy", "tokenized", "wressle", "oil"],
+  "timestamp": "2026-02-21T15:25:00.000Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 8453,
+      "address": "0xf836a500910453A397084ADe41321ee20a5AAde1",
+      "name": "Wressle-1 Royalty Community Preview",
+      "symbol": "ALB-WR1-R1",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/albionlabs/tokenlist/main/assets/r1-token-logo.svg",
+      "tags": ["royalty", "energy", "wressle"],
+      "extensions": {
+        "underlying": "Wressle Oil Field",
+        "royaltyShare": "2.5% of 4.5% gross royalty",
+        "operator": "Europa Oil & Gas",
+        "location": "Lincolnshire, UK",
+        "product": "Light Brent-linked crude",
+        "issuer": "S01 Issuer",
+        "maxSupply": "20000",
+        "basescan": "https://basescan.org/token/0xf836a500910453A397084ADe41321ee20a5AAde1",
+        "exchange": "https://albion.exchange"
+      }
+    },
+    {
+      "chainId": 8453,
+      "address": "0x1d57246fd0ba134d7cc78ddf3ed829379d95f4b7",
+      "name": "Wressle-1 Royalty Investor Preview",
+      "symbol": "ALB-WR1-R2",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/albionlabs/tokenlist/main/assets/r2-token-logo.svg",
+      "tags": ["royalty", "energy", "wressle"],
+      "extensions": {
+        "underlying": "Wressle Oil Field",
+        "royaltyShare": "7.5% of 4.5% gross royalty",
+        "operator": "Europa Oil & Gas",
+        "location": "Lincolnshire, UK",
+        "product": "Light Brent-linked crude",
+        "issuer": "S01 Issuer",
+        "maxSupply": "36000",
+        "basescan": "https://basescan.org/token/0x1d57246fd0ba134d7cc78ddf3ed829379d95f4b7",
+        "exchange": "https://albion.exchange"
+      }
+    }
+  ]
+}
